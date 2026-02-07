@@ -1,6 +1,6 @@
 # Life Satisfaction Drivers and Group Differences (Statistical Testing)
 
-This project is an individual MS5105 statistical analysis focused on wellbeing and life satisfaction. It applies hypothesis testing and regression modelling to examine how lifestyle and demographic factors (children at home, smoking, education, marital status, gender) relate to life satisfaction, and it interprets results using model fit, effect sizes, and diagnostics.
+This project is an analysis focused on wellbeing and life satisfaction. It applies hypothesis testing and regression modelling to examine how lifestyle and demographic factors (children at home, smoking, education, marital status, gender) relate to life satisfaction, and it interprets results using model fit, effect sizes, and diagnostics.
 
 ## Objectives
 - Select appropriate statistical methods based on research questions and variable types.
